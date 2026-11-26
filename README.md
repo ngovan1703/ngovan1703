@@ -10,7 +10,7 @@
 * Year of Birth: 2006
 * 2d/2.5d Enthusiast
 * Learning to make my own story game
-* Make random apps out of curiousity
+* Make random apps out of curiosity
 
 <h2>Education</h2>
 
