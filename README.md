@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">CornDayo</h1>
 
-<!--
-**ngovan1703/ngovan1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>To seek eternity is to chain oneself to stagnation. - Nine Sols</i>
+</p>
 
-Here are some ideas to get you started:
+##About 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Full name: Ngô Thuận Văn
+* Year of Birth: 2006
+* 2d/2.5d Enthusiast
+* Learning to make my own story game
+* Make random apps out of curiousity
+
+##Education
+* Language: C/C++, C#, Python, Dart
+* Study: 2/4 in Software Engineering
