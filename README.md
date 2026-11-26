@@ -13,5 +13,7 @@
 * Make random apps out of curiousity
 
 <h2>Education</h2>
+
+
 * Language: C/C++, C#, Python, Dart
-* Study: 2/4 in Software Engineering
+* Education: 2/4 year on Software Engineering
