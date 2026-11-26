@@ -4,7 +4,7 @@
   <i>To seek eternity is to chain oneself to stagnation. - Nine Sols</i>
 </p>
 
-##About 
+<h2>About</h2> 
 
 * Full name: Ngô Thuận Văn
 * Year of Birth: 2006
@@ -12,6 +12,6 @@
 * Learning to make my own story game
 * Make random apps out of curiousity
 
-##Education
+<h2>Education</h2>
 * Language: C/C++, C#, Python, Dart
 * Study: 2/4 in Software Engineering
